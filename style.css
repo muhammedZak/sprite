@@ -1,0 +1,239 @@
+
+
+@import url("https://fast.fonts.net/cssapi/8a04dc22-85c7-4eaf-9d7a-6b23de89105b.css");
+
+
+
+body
+{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    margin: 0;
+}
+header
+{
+    width: 100%;
+    background-color: #009b4e;
+    position: fixed;
+    z-index: 1;
+}
+.nav-bar
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.logo
+{
+    width: 207px;
+}
+.logo img
+{
+    width: 150px;
+    
+}
+
+.nav-links ul
+{
+    display: flex;
+    list-style-type: none;
+    margin-top: 22px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+
+.nav-links a
+{
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    cursor: pointer;
+}
+.link-2
+{
+    margin-left: 50px;
+}
+.link-3
+{
+    margin-left: 50px;
+}
+.nav-links a:hover
+{
+    color: black;
+    border-bottom:  solid black;
+    /* border-bottom-width:42px; */
+
+}
+.nav-icons
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 21px;
+    flex: 1;
+
+}
+.nav-icons i{
+    margin-left: 40px;
+    font-size: 20px;
+}
+.nav-icons i:hover
+{
+    color: black;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.site-title
+{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #00b13f;
+    justify-content: space-between;
+    position: relative;
+    top: 101px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.new-same
+{
+    position: relative;
+    right: 330px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.content1
+{
+    position: relative;
+    top: 142px;
+    left: 175px;
+    font-size: 20px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.content1 button
+{
+    color: #00b13f;
+    width: 155px;
+    padding: 10px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.content1 button:hover
+{
+    color: white;
+    background-color: black;
+}
+.vid-sec
+{
+    text-align: center;
+}
+.vid-sec iframe
+{
+    width: 50%;
+    background-color: white;
+   
+    height: 400px;
+}
+i
+{
+    border: 1px solid #009b4e;
+    background-color: #009b4e;
+
+}
+.all-clear img{
+    width: 50%;
+    
+}
+.all-clear
+{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+footer
+{
+    background-color: #009b4e ;
+    padding: 80px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.footer-flex
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.connect-with-us-header
+{
+    color: white;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.connect-with-us-icons
+{
+    color: white;
+    /* text-align: end; */
+    font-size: 24px;
+    margin-left: 98px;
+    margin-top: 30px;
+    
+}
+.product-items
+{
+    color: white;
+    
+}
+.products-title
+{
+    color: white;
+    text-align: center;
+}
+.products
+{
+    display: flex;  
+    flex-direction: column;  
+    width: 529px;
+}
+.pro-items
+{
+    margin-left: 45px;
+    align-self: flex-end;
+}
+.connect-with
+{
+    width: 266px;
+}
+.sec1-footer img
+{
+    width: 134px;
+    margin-top: 41px;
+    margin-right: 71px;
+}
+.pro-items h3:hover
+{
+    color: black;
+}
+.drip-sip
+{
+    /* text-align: center; */
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+}
+.drip-sip h1 ,p
+{
+    margin-left: 335px;
+    /* font-family: "FuturaBT W05 ExtraBlack Italic"; */
+}
+.sec-last
+{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.sec-last a
+{
+    text-decoration: none;
+    color: white;
+}
+.row-last:hover
+{
+    color: black;
+}
+.coca-cola:hover
+{
+    text-decoration: underline;
+    
+}
